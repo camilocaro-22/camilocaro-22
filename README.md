@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👨‍💻 Desarrollador Backend
 
-<!--
-**camilocaro-22/camilocaro-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un **Desarrollador Backend** apasionado por crear soluciones eficientes, escalables y seguras.  
+Tengo experiencia en programación, modelado de datos y uso de inteligencia artificial para resolver problemas reales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 **Habilidades Técnicas**
+
+- **Lenguajes de Programación:**  
+  - Java ☕  
+  - Python 🐍
+
+- **Bases de Datos Relacionales:**  
+  - Diseño y modelado de datos  
+  - Consultas SQL avanzadas  
+  - MySQL
+
+- **Inteligencia Artificial:**  
+  - Desarrollo de modelos y scripts en Python  
+  - Uso de librerías y herramientas para IA
+
+---
+
+## 🚀 **Enfoque Profesional**
+
+- Desarrollo de aplicaciones backend robustas y mantenibles  
+- Optimización de bases de datos y rendimiento de consultas  
+- Integración de modelos de IA en soluciones prácticas
+
+---
+
+## 📊 **Estadísticas de GitHub**
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=camilocaro-22&show_icons=true&theme=radical&count_private=true)  
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camilocaro-22&layout=compact&theme=radical)  
+
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=camilocaro-22&theme=radical)
+
+---
+
+
+> “El código bien estructurado no solo resuelve problemas… también inspira confianza.”
+
